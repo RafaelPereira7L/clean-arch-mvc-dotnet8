@@ -1,0 +1,15 @@
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.deps.json
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\refint\CleanArchMvc.Application.dll
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Users\Fael\RiderProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
